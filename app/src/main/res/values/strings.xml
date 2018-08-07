@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="no_articles">No Articles found, reopen the app to refresh list</string>
+    <string name="no_connection">No Internet connection detected!\nClose the app, connect to Internet and open the app again,\nto show News feed.</string>
+</resources>
