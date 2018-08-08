@@ -2,4 +2,24 @@
     <string name="app_name">News App</string>
     <string name="no_articles">No Articles found, reopen the app to refresh list</string>
     <string name="no_connection">No Internet connection detected!\nClose the app, connect to Internet and open the app again,\nto show News feed.</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">Article Settings</string>
+
+    <string name="settings_number_of_articles_label">Number of articles displayed</string>
+    <string name="settings_number_of_articles_key" translatable="false">number_of_articles_displayed</string>
+    <string name="settings_number_of_articles_default" translatable="false">10</string>
+
+    <!-- Strings for Section label preference -->
+    <string name="settings_section_label">Selected Section</string>
+    <string name="settings_section_key" translatable="false">selected_section</string>
+    <string name="settings_section_default" translatable="false">technology</string>
+    <!-- Label for Section technology label option -->
+    <string name="settings_section_technology_label">Technology</string>
+    <string name="settings_section_technology_value" translatable="false">technology</string>
+    <!-- Label for Section politics label option -->
+    <string name="settings_section_politics_label">Politics</string>
+    <string name="settings_section_politics_value" translatable="false">politics</string>
+    <!-- Label for Section business label option -->
+    <string name="settings_section_business_label">Business</string>
+    <string name="settings_section_business_value" translatable="false">business</string>
 </resources>
